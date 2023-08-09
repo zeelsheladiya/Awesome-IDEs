@@ -25,7 +25,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ## General Purpose IDEs
 
-- [Visual Studio Code](https://code.visualstudio.com/) - A highly customizable code editor with a wide range of extensions for various languages and frameworks.
+- [Visual Studio Code](https://code.visualstudio.com/)![VS Code](https://cdn.jsdelivr.net/npm/simple-icons@4.26.0/icons/visualstudio.svg) - A highly customizable code editor with a wide range of extensions for various languages and frameworks.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE with advanced coding assistance and tools for web and enterprise development.
 - [Eclipse](https://www.eclipse.org/) - A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem.
 
