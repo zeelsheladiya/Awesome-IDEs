@@ -31,11 +31,11 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ## General Purpose IDEs
 
-| Name | Description | Links | Fees |
-| ---- | ----------------------------- | --- | --- |
-| <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> Visual Studio Code | A highly customizable code editor with a wide range of extensions for various languages and frameworks. | [Link](https://code.visualstudio.com/)| Free |
-| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Link](https://www.jetbrains.com/idea/) | Free |
-| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem. | [Link](https://www.eclipse.org/) | Free |
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> Visual Studio Code | A highly customizable code editor with a wide range of extensions for various languages and frameworks. | [Offical Website](https://code.visualstudio.com/), |  `Mac` `Windows` `Linux` `Online` `Chrome OS`| Free, Proprietary |
+| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/), [Guthub](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Proprietary, Freemium, Open Source |
+| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem. | [Official Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` `BSD` | Free, Open Source |
 
 ## Language-Specific IDEs
 
