@@ -31,9 +31,11 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ## General Purpose IDEs
 
-- <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> [Visual Studio Code](https://code.visualstudio.com/) - A highly customizable code editor with a wide range of extensions for various languages and frameworks.
-- <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE with advanced coding assistance and tools for web and enterprise development.
-- <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> [Eclipse](https://www.eclipse.org/) - A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem.
+| Name | Description | Links | Fees |
+| ---- | ----------------------------- | --- | --- |
+| <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> Visual Studio Code | A highly customizable code editor with a wide range of extensions for various languages and frameworks. | [Link](https://code.visualstudio.com/)| Free |
+| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Link](https://www.jetbrains.com/idea/) | Free |
+| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem. | [Link](https://www.eclipse.org/) | Free |
 
 ## Language-Specific IDEs
 
