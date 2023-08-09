@@ -33,55 +33,78 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> Visual Studio Code | A highly customizable code editor with a wide range of extensions for various languages and frameworks. | [Offical Website](https://code.visualstudio.com/), [Guthub](https://github.com/microsoft/vscode) |  `Mac` `Windows` `Linux` `Online` `Chrome OS`| Free, Proprietary |
-| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/), [Guthub](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Proprietary, Freemium, Open Source |
-| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem. | [Official Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` `BSD` | Free, Open Source |
+| <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> Visual Studio Code | A highly customizable code editor with a wide range of extensions for various languages and frameworks. | [Offical Website](https://code.visualstudio.com/) </br> [Guthub](https://github.com/microsoft/vscode) |  `Mac` `Windows` `Linux` `Online` `Chrome OS`| Free, Proprietary, Open-Source |
+| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [Guthub](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
+| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem. | [Official Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
 
 ## Language-Specific IDEs
 
 ### Python
 
-- <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> [PyCharm](https://www.jetbrains.com/pycharm/) - An intelligent Python IDE with integrated tools for efficient coding and debugging.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> PyCharm | An intelligent Python IDE with integrated tools for efficient coding and debugging. | [Offical Website](https://www.jetbrains.com/pycharm/) </br> [Github](https://github.com/JetBrains/intellij-community/tree/master/python)|  `Mac` `Windows` `Linux` `BSD` | Paid, Proprietary, Freemium, Open-Source |
 
 ### Java
+ 
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> NetBeans | An open-source IDE for Java development, offering smart code editing and project management. | [Offical Website](https://netbeans.apache.org/) </br> [Github](https://github.com/apache/netbeans) |  `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
 
-- <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> [NetBeans](https://netbeans.apache.org/) - An open-source IDE for Java development, offering smart code editing and project management.
 
 ### C/C++
 
-- <img src="Resources/Icons/clion.png" alt="icon" width=15 height=15> [CLion](https://www.jetbrains.com/clion/) - A cross-platform C/C++ IDE with code analysis, refactorings, and integrated debugger.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/clion.png" alt="icon" width=15 height=15> CLion | A cross-platform C/C++ IDE with code analysis, refactorings, and integrated debugger. | [Offical Website](https://www.jetbrains.com/clion/) |  `Mac` `Windows` `Linux` `IntelliJ IDEA` | Paid, Proprietary |
 
 ## Web Development IDEs
 
-- <img src="Resources/Icons/WebStorm.png" alt="icon" width=15 height=15> [WebStorm](https://www.jetbrains.com/webstorm/) - A professional IDE for web development, supporting JavaScript, HTML, and CSS.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/WebStorm.png" alt="icon" width=15 height=15> WebStorm | A professional IDE for web development, supporting JavaScript, HTML, and CSS. | [Offical Website](https://www.jetbrains.com/webstorm/) |  `Mac` `Windows` `Linux` | Paid, Proprietary |
 
 ## Mobile App Development IDEs
 
 ### Android
 
-- <img src="Resources/Icons/Android_Studio.png" alt="icon" width=15 height=15> [Android Studio](https://developer.android.com/studio) - The official IDE for Android app development, equipped with tools for designing, coding, and testing.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/Android_Studio.png" alt="icon" width=15 height=15> Android Studio | The official IDE for Android app development, equipped with tools for designing, coding, and testing. | [Offical Website](https://developer.android.com/studio) |  `Mac` `Windows` `Linux` `Chrome OS` | Free, Open-Source |
 
 ### iOS
 
-- <img src="Resources/Icons/Xcode.png" alt="icon" width=15 height=15> [Xcode](https://developer.apple.com/xcode/) - The primary IDE for iOS and macOS app development, featuring an interface builder and testing tools.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/Xcode.png" alt="icon" width=15 height=15> Xcode | The primary IDE for iOS and macOS app development, featuring an interface builder and testing tools. | [Offical Website](https://developer.apple.com/xcode/) |  `Mac` | Free, Proprietary |
 
 ## Data Science IDEs
 
-- <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> [Jupyter](https://jupyter.org/) - An open-source web application for interactive computing and data analysis in multiple programming languages.
-- <img src="Resources/Icons/RStudio.png" alt="icon" width=50 height=15> [RStudio](https://rstudio.com/) - An integrated development environment for R, designed to enhance R programming and data science.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Guthub](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
+| <img src="Resources/Icons/RStudio.png" alt="icon" width=50 height=15> RStudio | An integrated development environment for R, designed to enhance R programming and data science. | [Offical Website](https://rstudio.com/) |  `Mac` `Windows` `Linux` `Xfce` | Free, Open-Source |
 
 ## Game Development IDEs
 
-- <img src="Resources/Icons/unity.png" alt="icon" width=15 height=15> [Unity](https://unity.com/) - A popular game development platform offering a wide range of tools and assets for creating games.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/unity.png" alt="icon" width=15 height=15> Unity | A popular game development platform offering a wide range of tools and assets for creating games. | [Offical Website](https://unity.com/) |  `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium |
 
 ## Embedded Systems IDEs
 
-- <img src="Resources/Icons/PlatformIO.png" alt="icon" width=15 height=15> [PlatformIO](https://platformio.org/) - An open-source ecosystem for IoT development with support for various embedded platforms.
+- () - 
+
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/PlatformIO.png" alt="icon" width=15 height=15> PlatformIO | An open-source ecosystem for IoT development with support for various embedded platforms. | [Offical Website](https://platformio.org/) |  `Mac` `Windows` `Linux` `CLion` `Visual Studio Code` `Eclipse` `Qt Creator` `Vim` `Sublime Text` `GNU` `Emacs` `NetBeans` `Atom` `Microsoft Visual Studio` | Free, Open-Source |
 
 ## Version Control and Collaboration
 
-- <img src="Resources/Icons/Git.png" alt="icon" width=15 height=15> [Git](https://git-scm.com/) - A distributed version control system to track changes in source code during software development.
-- <img src="Resources/Icons/github.png" alt="icon" width=15 height=15> [GitHub](https://github.com/) - A web-based platform for version control, collaboration, and code hosting.
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/Git.png" alt="icon" width=15 height=15> Git | A distributed version control system to track changes in source code during software development. | [Offical Website](https://git-scm.com/) |  `Mac` `Windows` `Linux` `Android` `iPhone` `Chrome OS` `Android Tablet` `BSD` `Linux Mobile` `Haiku` | Free, Open-Source |
+| <img src="Resources/Icons/github.png" alt="icon" width=15 height=15> GitHub | A web-based platform for version control, collaboration, and code hosting. | [Offical Website](https://github.com/) |  `Mac` `Windows` `Online` `Android` `iPhone` `Android Tablet` `iPad` | Paid, Proprietary, Freemium |
 
 ## Extensions and Plugins
 
