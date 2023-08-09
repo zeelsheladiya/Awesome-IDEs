@@ -6,11 +6,17 @@ Welcome to Awesome-IDEs, a curated list of Integrated Development Environments (
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [General Purpose IDEs](#general-purpose-ides)
 - [Language-Specific IDEs](#language-specific-ides)
+  - [Python](#python)
+  - [Java](#java)
+  - [C/C++](#cc)
 - [Web Development IDEs](#web-development-ides)
 - [Mobile App Development IDEs](#mobile-app-development-ides)
+  - [Android](#android)
+  - [iOS](#ios)
 - [Data Science IDEs](#data-science-ides)
 - [Game Development IDEs](#game-development-ides)
 - [Embedded Systems IDEs](#embedded-systems-ides)
@@ -25,55 +31,55 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ## General Purpose IDEs
 
-- [Visual Studio Code](https://code.visualstudio.com/) <img src="https://cdn.simpleicons.org/vscode/000/fff" alt="Leptos" align=left width=24 height=24> - A highly customizable code editor with a wide range of extensions for various languages and frameworks.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE with advanced coding assistance and tools for web and enterprise development.
-- [Eclipse](https://www.eclipse.org/) - A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem.
+- <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> [Visual Studio Code](https://code.visualstudio.com/) - A highly customizable code editor with a wide range of extensions for various languages and frameworks.
+- <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE with advanced coding assistance and tools for web and enterprise development.
+- <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> [Eclipse](https://www.eclipse.org/) - A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem.
 
 ## Language-Specific IDEs
 
 ### Python
 
-- [PyCharm](https://www.jetbrains.com/pycharm/) - An intelligent Python IDE with integrated tools for efficient coding and debugging.
+- <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> [PyCharm](https://www.jetbrains.com/pycharm/) - An intelligent Python IDE with integrated tools for efficient coding and debugging.
 
 ### Java
 
-- [NetBeans](https://netbeans.apache.org/) - An open-source IDE for Java development, offering smart code editing and project management.
+- <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> [NetBeans](https://netbeans.apache.org/) - An open-source IDE for Java development, offering smart code editing and project management.
 
 ### C/C++
 
-- [CLion](https://www.jetbrains.com/clion/) - A cross-platform C/C++ IDE with code analysis, refactorings, and integrated debugger.
+- <img src="Resources/Icons/clion.png" alt="icon" width=15 height=15> [CLion](https://www.jetbrains.com/clion/) - A cross-platform C/C++ IDE with code analysis, refactorings, and integrated debugger.
 
 ## Web Development IDEs
 
-- [WebStorm](https://www.jetbrains.com/webstorm/) - A professional IDE for web development, supporting JavaScript, HTML, and CSS.
+- <img src="Resources/Icons/WebStorm.png" alt="icon" width=15 height=15> [WebStorm](https://www.jetbrains.com/webstorm/) - A professional IDE for web development, supporting JavaScript, HTML, and CSS.
 
 ## Mobile App Development IDEs
 
 ### Android
 
-- [Android Studio](https://developer.android.com/studio) - The official IDE for Android app development, equipped with tools for designing, coding, and testing.
+- <img src="Resources/Icons/Android_Studio.png" alt="icon" width=15 height=15> [Android Studio](https://developer.android.com/studio) - The official IDE for Android app development, equipped with tools for designing, coding, and testing.
 
 ### iOS
 
-- [Xcode](https://developer.apple.com/xcode/) - The primary IDE for iOS and macOS app development, featuring an interface builder and testing tools.
+- <img src="Resources/Icons/Xcode.png" alt="icon" width=15 height=15> [Xcode](https://developer.apple.com/xcode/) - The primary IDE for iOS and macOS app development, featuring an interface builder and testing tools.
 
 ## Data Science IDEs
 
-- [Jupyter](https://jupyter.org/) - An open-source web application for interactive computing and data analysis in multiple programming languages.
-- [RStudio](https://rstudio.com/) - An integrated development environment for R, designed to enhance R programming and data science.
+- <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> [Jupyter](https://jupyter.org/) - An open-source web application for interactive computing and data analysis in multiple programming languages.
+- <img src="Resources/Icons/RStudio.png" alt="icon" width=50 height=15> [RStudio](https://rstudio.com/) - An integrated development environment for R, designed to enhance R programming and data science.
 
 ## Game Development IDEs
 
-- [Unity](https://unity.com/) - A popular game development platform offering a wide range of tools and assets for creating games.
+- <img src="Resources/Icons/unity.png" alt="icon" width=15 height=15> [Unity](https://unity.com/) - A popular game development platform offering a wide range of tools and assets for creating games.
 
 ## Embedded Systems IDEs
 
-- [PlatformIO](https://platformio.org/) - An open-source ecosystem for IoT development with support for various embedded platforms.
+- <img src="Resources/Icons/PlatformIO.png" alt="icon" width=15 height=15> [PlatformIO](https://platformio.org/) - An open-source ecosystem for IoT development with support for various embedded platforms.
 
 ## Version Control and Collaboration
 
-- [Git](https://git-scm.com/) - A distributed version control system to track changes in source code during software development.
-- [GitHub](https://github.com/) - A web-based platform for version control, collaboration, and code hosting.
+- <img src="Resources/Icons/Git.png" alt="icon" width=15 height=15> [Git](https://git-scm.com/) - A distributed version control system to track changes in source code during software development.
+- <img src="Resources/Icons/github.png" alt="icon" width=15 height=15> [GitHub](https://github.com/) - A web-based platform for version control, collaboration, and code hosting.
 
 ## Extensions and Plugins
 
