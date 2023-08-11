@@ -103,8 +103,6 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ## Embedded Systems IDEs
 
-- () - 
-
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/PlatformIO.png" alt="icon" width=15 height=15> PlatformIO | An open-source ecosystem for IoT development with support for various embedded platforms. | [Offical Website](https://platformio.org/) |  `Mac` `Windows` `Linux` `CLion` `Visual Studio Code` `Eclipse` `Qt Creator` `Vim` `Sublime Text` `GNU` `Emacs` `NetBeans` `Atom` `Microsoft Visual Studio` | Free, Open-Source |
