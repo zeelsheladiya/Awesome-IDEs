@@ -54,12 +54,15 @@ An Integrated Development Environment (IDE) is a software application that provi
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> PyCharm | An intelligent Python IDE with integrated tools for efficient coding and debugging. | [Offical Website](https://www.jetbrains.com/pycharm/) </br> [Github](https://github.com/JetBrains/intellij-community/tree/master/python)|  `Mac` `Windows` `Linux` `BSD` | Paid, Proprietary, Freemium, Open-Source |
+| <img src="Resources/Icons/Spyder.png" alt="icon" width=40 height=20> Spyder | A scientific IDE designed for data analysis and visualization using Python. | [Official Website](https://www.spyder-ide.org/) </br> [Github](https://github.com/spyder-ide/spyder) |  `Mac` `Windows` `Linux` | Free, Open-Source |
+| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Guthub](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
 
 ### Java
  
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> NetBeans | An open-source IDE for Java development, offering smart code editing and project management. | [Offical Website](https://netbeans.apache.org/) </br> [Github](https://github.com/apache/netbeans) |  `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
+| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [Guthub](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
 
 
 ### C/C++
@@ -67,6 +70,13 @@ An Integrated Development Environment (IDE) is a software application that provi
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/clion.png" alt="icon" width=15 height=15> CLion | A cross-platform C/C++ IDE with code analysis, refactorings, and integrated debugger. | [Offical Website](https://www.jetbrains.com/clion/) |  `Mac` `Windows` `Linux` `IntelliJ IDEA` | Paid, Proprietary |
+| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE supporting C/C++ development with extensive plugin support. | [Official Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
+| <img src="Resources/Icons/codeblocks.png" alt="icon" width=20 height=20> Code::Blocks | A free, open-source C/C++ IDE with a simple interface and various features. | [Official Website](http://www.codeblocks.org/) </br> [Github](https://github.com/obfuscated/codeblocks_sf) | `Windows` `Linux` `BSD` | Free, Open-Source |
+| <img src="Resources/Icons/qt.png" alt="icon" width=15 height=15> Qt Creator | An integrated development environment designed for developing applications using the Qt framework. | [Official Website](https://www.qt.io/qt-features-libraries-apis-tools-and-ide) </br> [Github](https://github.com/qt-creator/qt-creator) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source, Paid, Proprietary |
+| <img src="Resources/Icons/kdevelop.png" alt="icon" width=20 height=20> KDevelop | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | [Official Website](https://apps.kde.org/kdevelop/) </br> [Github](https://github.com/KDE/kdevelop) | `Windows` `Linux` `KDE` | Free, Open-Source |
+| <img src="Resources/Icons/CodeLite.png" alt="icon" width=15 height=15> CodeLite | An open-source, cross platform IDE for the C/C++/PHP and Node.js programming languages. | [Official Website](https://codelite.org) | `Mac` `Windows` `Linux` `wxWidgets` | Free, Open-Source |
+| <img src="Resources/Icons/cppdroid.png" alt="icon" width=15 height=15> CppDroid | A simple C/C++ IDE focused on learning programming languages and libraries. | [PlayStore](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.cppdroid&hl=en_CA&gl=US) |  `Android` `Android Tablet` | Freemium, Paid, Proprietary |
+| <img src="Resources/Icons/devc++.png" alt="icon" width=15 height=15> Bloodshed Dev-C++ | A full-featured Integrated Development Environment (IDE) for the C/C++ programming language. It uses Mingw port of GCC (GNU Compiler Collection) as it's compiler. | [Official Website](http://www.bloodshed.net) | `Windows` | Free, Open-Source |
 
 ## Web Development IDEs
 
