@@ -95,6 +95,10 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ### Android
 
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/Android_Studio.png" alt="icon" width=15 height=15> Android Studio | The official IDE for Android app development, equipped with tools for designing, coding, and testing. | [Offical Website](https://developer.android.com/studio) |  `Mac` `Windows` `Linux` `Chrome OS` | Free, Open-Source |
+
 ### iOS
 
 | Name | Description | Links | System Support | Fees |
