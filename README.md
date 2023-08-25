@@ -118,6 +118,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/unity.png" alt="icon" width=15 height=15> Unity | A popular game development platform offering a wide range of tools and assets for creating games. | [Offical Website](https://unity.com/) |  `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium |
 | <img src="Resources/Icons/godot.png" alt="icon" width=15 height=15> Godot Engine |  An open-source game engine with a focus on user-friendly design and 2D/3D capabilities. | [Official Website](https://godotengine.org/) </br> [Github](https://github.com/godotengine/godot) |  `Mac` `Windows` `Linux` `Haiku` `FreeBSD` | Free, Open-Source |
+| <img src="Resources/Icons/unreal.png" alt="icon" width=15 height=15> Unreal Engine | A powerful game engine with high-quality graphics, used for creating AAA games and interactive experiences. | [Official Website](https://www.unrealengine.com/) | `Mac`  `Windows` `Linux` | Free, Proprietary |
 
 ## Embedded Systems IDEs
 
