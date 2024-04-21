@@ -49,11 +49,6 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ## Language-Specific IDEs
 
-### Arduino
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| [ElectronIDE](https://github.com/joshmarinacci/ElectronIDE) |New web based Arduino IDE|[Github](https://github.com/joshmarinacci/ElectronIDE) | `Mac` `Windows` `Linux` `Online` `Cloud`, `arduino`| Free, Open-Source |
-
 ### Python
 
 | Name | Description | Links | System Support | Fees |
@@ -137,6 +132,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/PlatformIO.png" alt="icon" width=15 height=15> PlatformIO | An open-source ecosystem for IoT development with support for various embedded platforms. | [Offical Website](https://platformio.org/) |  `Mac` `Windows` `Linux` `CLion` `Visual Studio Code` `Eclipse` `Qt Creator` `Vim` `Sublime Text` `GNU` `Emacs` `NetBeans` `Atom` `Microsoft Visual Studio` | Free, Open-Source |
+| <img src="Resources/Icons/ElectronIDE.png" alt="icon" width=15 height=15> ElectronIDE | New web based Arduino IDE | [Github](https://github.com/joshmarinacci/ElectronIDE) | `Mac` `Windows` `Linux` `Online` `Cloud`, `arduino`| Free, Open-Source |
 
 ## Version Control and Collaboration
 
