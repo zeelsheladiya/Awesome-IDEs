@@ -49,13 +49,18 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ## Language-Specific IDEs
 
+### Arduino
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| [ElectronIDE](https://github.com/joshmarinacci/ElectronIDE) |New web based Arduino IDE|[Github](https://github.com/joshmarinacci/ElectronIDE) | `Mac` `Windows` `Linux` `Online` `Cloud`, `arduino`| Free, Open-Source |
+
 ### Python
 
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> PyCharm | An intelligent Python IDE with integrated tools for efficient coding and debugging. | [Offical Website](https://www.jetbrains.com/pycharm/) </br> [Github](https://github.com/JetBrains/intellij-community/tree/master/python)|  `Mac` `Windows` `Linux` `BSD` | Paid, Proprietary, Freemium, Open-Source |
 | <img src="Resources/Icons/Spyder.png" alt="icon" width=40 height=20> Spyder | A scientific IDE designed for data analysis and visualization using Python. | [Official Website](https://www.spyder-ide.org/) </br> [Github](https://github.com/spyder-ide/spyder) |  `Mac` `Windows` `Linux` | Free, Open-Source |
-| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Guthub](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
+| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Github](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
 
 ### Java
  
