@@ -10,6 +10,7 @@ Welcome to Awesome-IDEs, a curated list of Integrated Development Environments (
 - [Introduction](#introduction)
 - [General Purpose IDEs](#general-purpose-ides)
 - [Language-Specific IDEs](#language-specific-ides)
+  - [Arduino](#arduino)
   - [Python](#python)
   - [Java](#java)
   - [C/C++](#cc)
