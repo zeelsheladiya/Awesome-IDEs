@@ -85,6 +85,12 @@ An Integrated Development Environment (IDE) is a software application that provi
 | <img src="Resources/Icons/JCppEdit.png" alt="icon" width=15 height=15> JCppEdit | An IDE that offers you a unique platform to code many programs in a single environment, starting from C, C++, Java to HTML, CSS, JavaScript, XML and Text files.  | [Official Website](https://www.jcppedit.com) | `Windows` `Linux` | Free, Paid, Proprietary |
 | <img src="Resources/Icons/geany.png" alt="icon" width=15 height=15> Geany | A powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. And has built-in support for more than 50 programming languages. | [Official Website](https://geany.org) </br> [Github](https://github.com/geany/geany) | `Mac` `Windows` `Linux` `BSD` `PortableApps.com` `Flathub` `Flatpak` `Snapcraft` | Free, Open-Source |
 
+### Ruby
+
+| Name | Description | Links | System Support | Fees |
+| ---- | ----------------------------- | --- | --- | --- |
+| <img src="Resources/Icons/RubyMine.png" alt="icon" width=15 height=15> RubyMine | A Ruby IDE by JetBrains.  | [Offical Website](https://www.jetbrains.com/ruby/) | `Mac` `Windows` `Linux` | Paid, Proprietary |
+
 ## Web Development IDEs
 
 | Name | Description | Links | System Support | Fees |
