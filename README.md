@@ -13,6 +13,7 @@ Welcome to Awesome-IDEs, a curated list of Integrated Development Environments (
   - [Python](#python)
   - [Java](#java)
   - [C/C++](#cc)
+  - [Ruby](#ruby)
 - [Web Development IDEs](#web-development-ides)
 - [Mobile App Development IDEs](#mobile-app-development-ides)
   - [Android](#android)
