@@ -36,7 +36,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> Visual Studio Code | A highly customizable code editor with a wide range of extensions for various languages and frameworks. | [Offical Website](https://code.visualstudio.com/) </br> [Github](https://github.com/microsoft/vscode) |  `Mac` `Windows` `Linux` `Online` `Chrome OS`| Free, Proprietary, Open-Source |
 | <img src="Resources/Icons/kdevelop.png" alt="icon" width=20 height=20> KDevelop | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | [Official Website](https://apps.kde.org/kdevelop/) </br> [Github](https://github.com/KDE/kdevelop) | `Windows` `Linux` `KDE` | Free, Open-Source |
-| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [Guthub](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
+| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
 | <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem. | [Official Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
 | <img src="Resources/Icons/visual_studio.png" alt="icon" width=20 height=20> Microsoft Visual Studio | An integrated development environment for various programming languages, including C++, C#, and more. | [Official Website](https://visualstudio.microsoft.com/) | `Mac` `Windows` `Online` `.NET Framework` | Free, Paid, Proprietary |
 | <img src="Resources/Icons/vim.png" alt="icon" width=15 height=15> Vim | A highly configurable and efficient text editor, often used as an IDE by many developers. | [Official Website](https://www.vim.org/) </br> [Github](https://github.com/vim/vim) | `Mac` `Windows` `Linux` `BSD` `Haiku` `AmigaOS` `OpenSolaris` `MorphOS` | Free, Open-Source |
@@ -66,7 +66,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
 | <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> NetBeans | An open-source IDE for Java development, offering smart code editing and project management. | [Offical Website](https://netbeans.apache.org/) </br> [Github](https://github.com/apache/netbeans) |  `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
-| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [Guthub](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
+| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [Github](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
 
 
 ### C/C++
@@ -119,7 +119,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 | Name | Description | Links | System Support | Fees |
 | ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Guthub](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
+| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Github](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
 | <img src="Resources/Icons/RStudio.png" alt="icon" width=50 height=15> RStudio | An integrated development environment for R, designed to enhance R programming and data science. | [Offical Website](https://rstudio.com/) |  `Mac` `Windows` `Linux` `Xfce` | Free, Open-Source |
 
 ## Game Development IDEs
