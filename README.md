@@ -1,168 +1,166 @@
-**Awesome-IDEs**
+# Awesome-IDEs
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to Awesome-IDEs, a curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity. Whether you're a beginner programmer or an experienced developer, finding the right IDE can significantly impact your workflow and make coding a breeze. This repository aims to gather a comprehensive collection of IDEs, categorized by programming languages, platforms, and features, to help you discover the perfect environment for your projects.
+Welcome to **Awesome-IDEs**, a curated list of Integrated Development Environments (IDEs) and intelligent code editors. This list aims to help you discover the perfect environment for your workflow, whether you need a lightweight editor, a robust integrated environment, or a next-generation AI-powered assistant.
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
+- [AI-Powered & Next-Gen IDEs](#ai-powered--next-gen-ides)
 - [General Purpose IDEs](#general-purpose-ides)
 - [Language-Specific IDEs](#language-specific-ides)
-  - [Python](#python)
-  - [Java](#java)
-  - [C/C++](#cc)
-  - [Ruby](#ruby)
-- [Web Development IDEs](#web-development-ides)
-- [Mobile App Development IDEs](#mobile-app-development-ides)
-  - [Android](#android)
-  - [iOS](#ios)
-- [Data Science IDEs](#data-science-ides)
-- [Game Development IDEs](#game-development-ides)
-- [Embedded Systems IDEs](#embedded-systems-ides)
-- [Version Control and Collaboration](#version-control-and-collaboration)
-- [Extensions and Plugins](#extensions-and-plugins)
+    - [Python](#python)
+    - [Java](#java)
+    - [C/C++](#cc)
+    - [Ruby](#ruby)
+- [Web Development](#web-development)
+- [Mobile Development](#mobile-development)
+- [Data Science](#data-science)
+- [Game Development](#game-development)
+- [Embedded Systems](#embedded-systems)
+- [Version Control & Tools](#version-control--tools)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-An Integrated Development Environment (IDE) is a software application that provides comprehensive tools for software development. It typically includes a code editor, debugger, build tools, and other features tailored to specific programming languages or development tasks. Choosing the right IDE can have a significant impact on your coding efficiency and the quality of your projects. This list aims to help you explore various IDE options available across different programming domains.
+Choosing the right IDE can significantly impact your productivity. The landscape is evolving rapidly, with a new wave of **AI-First IDEs** changing how we write code. This list categorizes structured environments by their primary focus, while using **Tags** to highlight cross-capabilities (like Web support in a Java IDE or AI integration).
+
+**Key to Tags:**
+- `AI-Native`: Built from the ground up for AI.
+- `AI-Ready`: Has strong, official AI plugins or integrations.
+- `Lightweight`: Fast startup, low resource usage.
+- `Polyglot`: Excellent support for many languages.
+
+## AI-Powered & Next-Gen IDEs
+
+These IDEs are built with Artificial Intelligence at their core or represent the next generation of high-performance editors.
+
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/cursor.png" alt="icon" width=15 height=15> **Cursor** | An AI-first code editor built on top of VS Code. It understands your entire codebase and allows for natural language coding and diff revisions. | [Website](https://cursor.com/) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `AI-Native` `Fork-of-VSCode` |
+| <img src="Resources/Icons/windsurf.png" alt="icon" width=15 height=15> **Windsurf** | The first "agentic" IDE by Codeium. It features "Flow" to keep context of your work and can act autonomously to refactor or generate code. | [Website](https://codeium.com/windsurf) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `AI-Native` `Agentic` |
+| <img src="Resources/Icons/zed.png" alt="icon" width=15 height=15> **Zed** | A high-performance, multiplayer code editor written in Rust. Designed for speed and collaboration with built-in AI chat. | [Website](https://zed.dev/) <br> [Github](https://github.com/zed-industries/zed) | `Mac` `Linux` `Windows (Preview)` | Free, Open-Source | `High-Performance` `Rust` `AI-Integrated` |
+| <img src="Resources/Icons/trae.png" alt="icon" width=15 height=15> **Trae** | An adaptive AI IDE that offers a "Builder Mode" to automate end-to-end development tasks. | [Website](https://trae.ai/) | `Mac` `Windows` | Free, Proprietary | `AI-Native` |
+| <img src="Resources/Icons/theia-ide.png" alt="icon" width=15 height=15> **Theia IDE** | An extensible, adaptable platform compatible with VS Code extensions, featuring transparent AI coding. | [Website](https://theia-ide.org/) <br> [Github](https://github.com/eclipse-theia/theia) | `Mac` `Windows` `Linux` `Online` | Free, Open-Source | `Cloud-Ready` `Extensible` |
+| <img src="Resources/Icons/jetbrains-fleet.svg" alt="icon" width=15 height=15> **JetBrains Fleet** | A distributed, polyglot IDE built from scratch by JetBrains. Uses the IntelliJ engine but with a lightweight UI. | [Website](https://www.jetbrains.com/fleet) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Distributed` `Polyglot` |
 
 ## General Purpose IDEs
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> Visual Studio Code | A highly customizable code editor with a wide range of extensions for various languages and frameworks. | [Offical Website](https://code.visualstudio.com/) </br> [Github](https://github.com/microsoft/vscode) |  `Mac` `Windows` `Linux` `Online` `Chrome OS`| Free, Proprietary, Open-Source |
-| <img src="Resources/Icons/kdevelop.png" alt="icon" width=20 height=20> KDevelop | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | [Official Website](https://apps.kde.org/kdevelop/) </br> [Github](https://github.com/KDE/kdevelop) | `Windows` `Linux` `KDE` | Free, Open-Source |
-| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
-| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE is known for its Java development capabilities and extensive plugin ecosystem. | [Official Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
-| <img src="Resources/Icons/visual_studio.png" alt="icon" width=20 height=20> Microsoft Visual Studio | An integrated development environment for various programming languages, including C++, C#, and more. | [Official Website](https://visualstudio.microsoft.com/) | `Mac` `Windows` `Online` `.NET Framework` | Free, Paid, Proprietary |
-| <img src="Resources/Icons/vim.png" alt="icon" width=15 height=15> Vim | A highly configurable and efficient text editor, often used as an IDE by many developers. | [Official Website](https://www.vim.org/) </br> [Github](https://github.com/vim/vim) | `Mac` `Windows` `Linux` `BSD` `Haiku` `AmigaOS` `OpenSolaris` `MorphOS` | Free, Open-Source |
-| <img src="Resources/Icons/qt.png" alt="icon" width=15 height=15> Qt Creator | An integrated development environment designed for developing applications using the Qt framework. | [Official Website](https://www.qt.io/qt-features-libraries-apis-tools-and-ide) </br> [Github](https://github.com/qt-creator/qt-creator) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source, Paid, Proprietary |
-| <img src="Resources/Icons/Emacs.png" alt="icon" width=15 height=15> Emacs | A highly customizable and extensible text editor known for its rich feature set and programming capabilities. | [Official Website](https://www.gnu.org/software/emacs/) </br> [Github](https://github.com/emacs-mirror/emacs) | `Mac` `Windows` `Linux` `Android` `BSD` `F-Droid` `Haiku` `Homebrew` | Free, Open-Source |
-| <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> NetBeans | An open-source IDE for create professional desktop, enterprise, web, and mobile applications with the Java language, C/C++, and even dynamic languages such as PHP, JavaScript, Groovy, and Ruby. | [Offical Website](https://netbeans.apache.org/) </br> [Github](https://github.com/apache/netbeans) |  `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
-| <img src="Resources/Icons/Lapce.png" alt="icon" width=15 height=15> Lapce | Lightning-fast and Powerful Code Editor written in Rust. | [Offical Website](https://lap.dev/lapce/) </br> [Github](https://github.com/lapce/lapce) |  `Mac` `Windows` `Linux` | Free, Open-Source |
-| <img src="Resources/Icons/UltraEdit.png" alt="icon" width=15 height=15> UltraEdit | A commercial text editor known for its powerful editing capabilities and customizable interface. An ideal text, HTML and HEX editor, and an advanced PHP, Perl, Java and JavaScript editor for programmers. | [Official Website](https://www.ultraedit.com/) |  `Mac` `Windows` `Linux` | Free, Paid, Proprietary |
-| <img src="Resources/Icons/Squircle_IDE.png" alt="icon" width=15 height=15> Squircle IDE | A fast and free multi-language code editor for Android. Squircle IDE currently supports coding in the following programming languages: ActionScript, C, C++, C#, Groovy, HTML, Java, JavaScript, Json, Julia, Kotlin, Lisp, Lua, Markdown, PHP, Python, Ruby, Shell, Smali, SQL, Toml, TypeScript, Visual Basic, XML and YAML. | [Github](https://github.com/massivemadness/Squircle-CE) | `Android` `Android Tablet` `F-Droid` | Free, Open-Source |
-| <img src="Resources/Icons/avalonstudio.png" alt="icon" width=15 height=15> AvalonStudio | An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript. | [Github](https://github.com/VitalElement/AvalonStudio) | `Mac` `Windows` `Linux` `Visual Studio Code` | Free, Open-Source |
-| <img src="Resources/Icons/theia-ide.png" alt="icon" width=15 height=15> Theia IDE | A highly extensible, adaptable and fully open-source IDE built on the [Theia Platform](https://theia-ide.org/theia-platform/) and [Theia AI](https://eclipsesource.com/blogs/2025/03/13/introducing-theia-ai/). Fully compatible with VS Code extensions and featuring [open and transparent AI coding](https://eclipsesource.com/blogs/2025/03/13/introducing-the-ai-powered-theia-ide/).| [Official Website](https://theia-ide.org/) </br> [Github](https://github.com/eclipse-theia/theia) | `Mac` `Windows` `Linux` `Online` `Chrome OS` | Free, Open-Source |
-| <img src="Resources/Icons/zed.png" alt="icon" width=15 height=15> Zed | Zed is a next-generation code editor designed for high-performance collaboration with humans and AI. Zed only works with a few languages currently such as rust, but more are being added via extensions. | [Offical Website](https://zed.dev/) </br> [Github](https://github.com/zed-industries/zed) |  `Mac` `Windows (Coming Soon)` `Linux`| Free, Open-Source |
-| <img src="Resources/Icons/jetbrains-fleet.svg" alt="icon" width=15 height=15> JetBrains Fleet | Fleet uses the IntelliJ code-processing engine, with a distributed IDE architecture and a reimagined UI. | [Offical Website](https://www.jetbrains.com/fleet) |  `Mac` `Windows` `Linux`| Free, Proprietary |
+Versatile editors and IDEs that support a wide array of languages and workflows via plugins.
+
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/vscode.png" alt="icon" width=15 height=15> **Visual Studio Code** | The most popular code editor, highly customizable with a massive extension marketplace. | [Website](https://code.visualstudio.com/) <br> [Github](https://github.com/microsoft/vscode) | `Mac` `Windows` `Linux` `Web` | Free, Open-Source | `Polyglot` `Extensible` `AI-Ready` |
+| <img src="Resources/Icons/visual_studio.png" alt="icon" width=20 height=20> **Visual Studio** | A comprehensive IDE for .NET and C++ development, widely used in enterprise environments. | [Website](https://visualstudio.microsoft.com/) | `Windows` `Mac` | Freemium, Proprietary | `Enterprise` `.NET` `C++` |
+| <img src="Resources/Icons/vim.png" alt="icon" width=15 height=15> **Vim** | A highly configurable text editor for efficient text editing. Often used as an IDE by power users. | [Website](https://www.vim.org/) | `All Platforms` | Free, Open-Source | `CLI` `Lightweight` |
+| <img src="Resources/Icons/Emacs.png" alt="icon" width=15 height=15> **Emacs** | An extensible, customizable, self-documenting display editor. "An OS inside an editor". | [Website](https://www.gnu.org/software/emacs/) | `All Platforms` | Free, Open-Source | `CLI` `Lisp` `Extensible` |
+| <img src="Resources/Icons/UltraEdit.png" alt="icon" width=15 height=15> **UltraEdit** | A powerful commercial text editor for handling large files and complex editing tasks. | [Website](https://www.ultraedit.com/) | `Mac` `Windows` `Linux` | Paid | `Text-Processing` `Hex` |
+| <img src="Resources/Icons/Lapce.png" alt="icon" width=15 height=15> **Lapce** | A lightning-fast, open-source code editor written in Rust. | [Website](https://lap.dev/lapce/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Rust` `Fast` |
+| <img src="Resources/Icons/geany.png" alt="icon" width=15 height=15> **Geany** | Powerful, stable, and lightweight programmer's text editor. | [Website](https://geany.org) | `Mac` `Windows` `Linux` | Free, Open-Source | `Lightweight` `Fast` |
 
 ## Language-Specific IDEs
 
+While many general IDEs support these languages, the following are specialized or "Best-in-Class" for specific ecosystems.
+
 ### Python
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> PyCharm | An intelligent Python IDE with integrated tools for efficient coding and debugging. | [Offical Website](https://www.jetbrains.com/pycharm/) </br> [Github](https://github.com/JetBrains/intellij-community/tree/master/python)|  `Mac` `Windows` `Linux` `BSD` | Paid, Proprietary, Freemium, Open-Source |
-| <img src="Resources/Icons/Spyder.png" alt="icon" width=40 height=20> Spyder | A scientific IDE designed for data analysis and visualization using Python. | [Official Website](https://www.spyder-ide.org/) </br> [Github](https://github.com/spyder-ide/spyder) |  `Mac` `Windows` `Linux` | Free, Open-Source |
-| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Github](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> **PyCharm** | The premier Python IDE with code analysis, graphical debugger, and Django support. | [Website](https://www.jetbrains.com/pycharm/) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Intelligent` `Web` `Data-Science` |
+| <img src="Resources/Icons/Spyder.png" alt="icon" width=40 height=20> **Spyder** | A scientific environment written in Python, for Python. Great for data analysts. | [Website](https://www.spyder-ide.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Scientific` `Data-Analysis` |
 
 ### Java
- 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> NetBeans | An open-source IDE for Java development, offering smart code editing and project management. | [Offical Website](https://netbeans.apache.org/) </br> [Github](https://github.com/apache/netbeans) |  `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
-| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for web and enterprise development. | [Official Website](https://www.jetbrains.com/idea/) </br> [Github](https://github.com/JetBrains/intellij-community)  | `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium, Open-Source |
 
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/IntelliJ_IDEA.png" alt="icon" width=15 height=15> **IntelliJ IDEA** | Capable and ergonomic IDE for JVM languages. deeply intelligent coding assistance. | [Website](https://www.jetbrains.com/idea/) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Java` `Kotlin` `Enterprise` |
+| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> **Eclipse** | Famous open-source IDE, widely used for Java and legacy enterprise applications. | [Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Java` `Plugin-Ecosystem` |
+| <img src="Resources/Icons/NetBeans.png" alt="icon" width=15 height=15> **NetBeans** | Official IDE for Java 8. Good support to modular applications. | [Website](https://netbeans.apache.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Java` `Swing` |
 
 ### C/C++
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/clion.png" alt="icon" width=15 height=15> CLion | A cross-platform C/C++ IDE with code analysis, refactorings, and integrated debugger. | [Offical Website](https://www.jetbrains.com/clion/) |  `Mac` `Windows` `Linux` `IntelliJ IDEA` | Paid, Proprietary |
-| <img src="Resources/Icons/Eclipse.png" alt="icon" width=15 height=15> Eclipse | A versatile IDE supporting C/C++ development with extensive plugin support. | [Official Website](https://www.eclipse.org/) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source |
-| <img src="Resources/Icons/codeblocks.png" alt="icon" width=20 height=20> Code::Blocks | A free, open-source C/C++ IDE with a simple interface and various features. | [Official Website](http://www.codeblocks.org/) </br> [Github](https://github.com/obfuscated/codeblocks_sf) | `Windows` `Linux` `BSD` | Free, Open-Source |
-| <img src="Resources/Icons/qt.png" alt="icon" width=15 height=15> Qt Creator | An integrated development environment designed for developing applications using the Qt framework. | [Official Website](https://www.qt.io/qt-features-libraries-apis-tools-and-ide) </br> [Github](https://github.com/qt-creator/qt-creator) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source, Paid, Proprietary |
-| <img src="Resources/Icons/kdevelop.png" alt="icon" width=20 height=20> KDevelop | A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP | [Official Website](https://apps.kde.org/kdevelop/) </br> [Github](https://github.com/KDE/kdevelop) | `Windows` `Linux` `KDE` | Free, Open-Source |
-| <img src="Resources/Icons/rad_studio.png" alt="icon" width=15 height=15> RAD Studio | The industry’s most powerful rapid application development suite for visually building GUI-intensive, data-driven end-user applications for both native Windows and .NET. | [Offical Website](https://www.embarcadero.com/products/rad-studio) |  `Windows` | Paid, Proprietary |
-| <img src="Resources/Icons/CodeLite.png" alt="icon" width=15 height=15> CodeLite | An open-source, cross platform IDE for the C/C++/PHP and Node.js programming languages. | [Official Website](https://codelite.org) | `Mac` `Windows` `Linux` `wxWidgets` | Free, Open-Source |
-| <img src="Resources/Icons/cppdroid.png" alt="icon" width=15 height=15> CppDroid | A simple C/C++ IDE focused on learning programming languages and libraries. | [PlayStore](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.cppdroid&hl=en_CA&gl=US) |  `Android` `Android Tablet` | Freemium, Paid, Proprietary |
-| <img src="Resources/Icons/devc++.png" alt="icon" width=15 height=15> Bloodshed Dev-C++ | A full-featured Integrated Development Environment (IDE) for the C/C++ programming language. It uses Mingw port of GCC (GNU Compiler Collection) as it's compiler. | [Official Website](http://www.bloodshed.net) | `Windows` | Free, Open-Source |
-| <img src="Resources/Icons/Ultimate++.png" alt="icon" width=15 height=15> Ultimate++ | A C++ cross-platform rapid application development framework | [Official Website](https://www.ultimatepp.org) </br> [Github](https://github.com/ultimatepp/ultimatepp) | `Windows` `Linux` `BSD` | Free, Open-Source |
-| <img src="Resources/Icons/Anjuta.png" alt="icon" width=15 height=15> Anjuta | A versatile Integrated Development Environment (IDE) for C and C++ on GNU/Linux.  | [Official Website](https://wiki.gnome.org/Apps/Anjuta) | `Linux` `GNOME` | Free, Open-Source |
-| <img src="Resources/Icons/cevelop.png" alt="icon" width=15 height=15> Cevelop | The C++ IDE for professional developers.  | [Official Website](https://www.cevelop.com) | `Mac` `Windows` `Linux` | Free, Paid, Proprietary |
-| <img src="Resources/Icons/Zinjai.png" alt="icon" width=15 height=15> Zinjai | An IDE (integrated development environment) for C + + developed in the context of a Starter Grant from the Scientific Research at the Universidad Nacional del Litoral, Argentina, designed for use by students of programming.  | [Official Website](https://zinjai.sourceforge.net) | `Mac` `Windows` `Linux` | Free, Open-Source |
-| <img src="Resources/Icons/JCppEdit.png" alt="icon" width=15 height=15> JCppEdit | An IDE that offers you a unique platform to code many programs in a single environment, starting from C, C++, Java to HTML, CSS, JavaScript, XML and Text files.  | [Official Website](https://www.jcppedit.com) | `Windows` `Linux` | Free, Paid, Proprietary |
-| <img src="Resources/Icons/geany.png" alt="icon" width=15 height=15> Geany | A powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow. And has built-in support for more than 50 programming languages. | [Official Website](https://geany.org) </br> [Github](https://github.com/geany/geany) | `Mac` `Windows` `Linux` `BSD` `PortableApps.com` `Flathub` `Flatpak` `Snapcraft` | Free, Open-Source |
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/clion.png" alt="icon" width=15 height=15> **CLion** | Cross-platform C/C++ IDE by JetBrains. Uses CMake natively. | [Website](https://www.jetbrains.com/clion/) | `Mac` `Windows` `Linux` | Paid | `CMake` `Embedded` |
+| <img src="Resources/Icons/qt.png" alt="icon" width=15 height=15> **Qt Creator** | Designed for developing applications with the Qt framework. | [Website](https://www.qt.io/) | `Mac` `Windows` `Linux` | Freemium | `Qt` `GUI` |
+| <img src="Resources/Icons/codeblocks.png" alt="icon" width=20 height=20> **Code::Blocks** | Open-source C/C++ IDE built to meet the most demanding needs of its users. | [Website](http://www.codeblocks.org/) | `Windows` `Linux` | Free, Open-Source | `Lightweight` |
+| <img src="Resources/Icons/kdevelop.png" alt="icon" width=20 height=20> **KDevelop** | Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP. | [Website](https://apps.kde.org/kdevelop/) | `Windows` `Linux` | Free, Open-Source | `KDE` |
+| <img src="Resources/Icons/CodeLite.png" alt="icon" width=15 height=15> **CodeLite** | Lightweight open-source IDE for C/C++/PHP and Node.js. | [Website](https://codelite.org) | `Mac` `Windows` `Linux` | Free, Open-Source | `Lightweight` |
+| <img src="Resources/Icons/rad_studio.png" alt="icon" width=15 height=15> **RAD Studio** | Powerful rapid application development suite for GUI-centric apps. | [Website](https://www.embarcadero.com/products/rad-studio) | `Windows` | Paid | `GUI` `Delphi` `C++` |
+| <img src="Resources/Icons/devc++.png" alt="icon" width=15 height=15> **Dev-C++** | Legacy full-featured IDE for C/C++. | [Website](http://www.bloodshed.net) | `Windows` | Free, Open-Source | `Legacy` `Lightweight` |
+| <img src="Resources/Icons/Ultimate++.png" alt="icon" width=15 height=15> **Ultimate++** | C++ cross-platform rapid application development framework. | [Website](https://www.ultimatepp.org) | `Windows` `Linux` | Free, Open-Source | `RAD` |
+| <img src="Resources/Icons/Anjuta.png" alt="icon" width=15 height=15> **Anjuta** | Versatile IDE for C/C++ on GNU/Linux. | [Website](https://wiki.gnome.org/Apps/Anjuta) | `Linux` | Free, Open-Source | `GNOME` |
+| <img src="Resources/Icons/cevelop.png" alt="icon" width=15 height=15> **Cevelop** | The C++ IDE for professional developers. | [Website](https://www.cevelop.com) | `Mac` `Windows` `Linux` | Free, Paid | `Professional` |
+| <img src="Resources/Icons/Zinjai.png" alt="icon" width=15 height=15> **Zinjai** | Designed for use by students of programming. | [Website](https://zinjai.sourceforge.net) | `Mac` `Windows` `Linux` | Free, Open-Source | `Education` |
+| <img src="Resources/Icons/JCppEdit.png" alt="icon" width=15 height=15> **JCppEdit** | Multi-language environment starting from C/C++ to Java/Web. | [Website](https://www.jcppedit.com) | `Windows` `Linux` | Free, Paid | `Multi-Language` |
 
 ### Ruby
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/RubyMine.png" alt="icon" width=15 height=15> RubyMine | A Ruby IDE by JetBrains.  | [Offical Website](https://www.jetbrains.com/ruby/) | `Mac` `Windows` `Linux` | Paid, Proprietary |
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/RubyMine.png" alt="icon" width=15 height=15> **RubyMine** | A dedicated Ruby and Rails IDE with smart assistance. | [Website](https://www.jetbrains.com/ruby/) | `Mac` `Windows` `Linux` | Paid | `Ruby` `Rails` |
 
-## Web Development IDEs
+## Web Development
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/WebStorm.png" alt="icon" width=15 height=15> WebStorm | A professional IDE for web development, supporting JavaScript, HTML, and CSS. | [Offical Website](https://www.jetbrains.com/webstorm/) |  `Mac` `Windows` `Linux` | Paid, Proprietary |
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/WebStorm.png" alt="icon" width=15 height=15> **WebStorm** | The smartest JavaScript IDE. Fully equipped for advanced web development. | [Website](https://www.jetbrains.com/webstorm/) | `Mac` `Windows` `Linux` | Paid | `JavaScript` `TypeScript` `Frontend` |
 
-## Mobile App Development IDEs
+## Mobile Development
 
-### Android
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/Android_Studio.png" alt="icon" width=15 height=15> **Android Studio** | Official IDE for Android development. Based on IntelliJ IDEA. | [Website](https://developer.android.com/studio) | `Mac` `Windows` `Linux` | Free, Open-Source | `Android` `Kotlin` |
+| <img src="Resources/Icons/Xcode.png" alt="icon" width=15 height=15> **Xcode** | The only IDE for developing fully functional iOS/macOS apps. | [Website](https://developer.apple.com/xcode/) | `Mac` | Free, Proprietary | `iOS` `Swift` `macOS` |
+| <img src="Resources/Icons/Squircle_IDE.png" alt="icon" width=15 height=15> **Squircle IDE** | A fast multi-language code editor for Android devices. | [Github](https://github.com/massivemadness/Squircle-CE) | `Android` | Free, Open-Source | `Mobile-on-Mobile` |
+| <img src="Resources/Icons/cppdroid.png" alt="icon" width=15 height=15> **CppDroid** | simple C/C++ IDE focused on learning. | [PlayStore](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.cppdroid) | `Android` | Freemium | `Mobile-on-Mobile` |
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/Android_Studio.png" alt="icon" width=15 height=15> Android Studio | The official IDE for Android app development, equipped with tools for designing, coding, and testing. | [Offical Website](https://developer.android.com/studio) |  `Mac` `Windows` `Linux` `Chrome OS` | Free, Open-Source |
+## Data Science
 
-### iOS
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> **Jupyter** | Open-source web application for interactive computing and notebooks. | [Website](https://jupyter.org/) | `Web` `All Platforms` | Free, Open-Source | `Notebooks` `Python` `R` |
+| <img src="Resources/Icons/RStudio.png" alt="icon" width=50 height=15> **RStudio** | The premier IDE for R. Integrated tools for plotting, history, and workspace. | [Website](https://rstudio.com/) | `Mac` `Windows` `Linux` | Free, Open-Source | `R` `Statistics` |
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/Xcode.png" alt="icon" width=15 height=15> Xcode | The primary IDE for iOS and macOS app development, featuring an interface builder and testing tools. | [Offical Website](https://developer.apple.com/xcode/) |  `Mac` | Free, Proprietary |
+## Game Development
 
-## Data Science IDEs
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/unity.png" alt="icon" width=15 height=15> **Unity** | Real-time 3D development platform for building games and AR/VR experiences. | [Website](https://unity.com/) | `Mac` `Windows` `Linux` | Freemium | `3D` `C#` |
+| <img src="Resources/Icons/unreal.png" alt="icon" width=15 height=15> **Unreal Engine** | High-fidelity game engine used for AAA games and cinema. | [Website](https://www.unrealengine.com/) | `Mac` `Windows` `Linux` | Freemium | `AAA` `C++` `Visual-Scripting` |
+| <img src="Resources/Icons/godot.png" alt="icon" width=15 height=15> **Godot** | Feature-packed, cross-platform, open-source game engine. | [Website](https://godotengine.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Lightweight` `2D/3D` |
+| <img src="Resources/Icons/cryengine.png" alt="icon" width=15 height=15> **CryEngine** | A game engine known for its impressive visual fidelity and real-time physics. | [Website](https://www.cryengine.com/) | `Windows` | Free, Proprietary | `AAA` `Visuals` |
+| <img src="Resources/Icons/game_maker.png" alt="icon" width=25 height=15> **GameMaker** | The ultimate 2D game development environment. | [Website](https://www.yoyogames.com/gamemaker) | `Windows` `Mac` | Paid | `2D` `Beginner-Friendly` |
+| <img src="Resources/Icons/construct.png" alt="icon" width=15 height=15> **Construct** | Visual game engine for creating 2D games without coding. | [Website](https://www.construct.net/) | `Web` `Windows` | Paid | `No-Code` `2D` |
+| <img src="Resources/Icons/defold.png" alt="icon" width=15 height=15> **Defold** | focused on 2D game development and ease of use. | [Website](https://defold.com/) | `Mac` `Windows` `Linux` | Free, Open-Source | `2D` `Lightweight` |
+| <img src="Resources/Icons/stride.png" alt="icon" width=15 height=15> **Stride** | Open-source 3D game engine (formerly Xenko). | [Website](https://stride3d.net/) | `Windows` | Free, Open-Source | `.NET` `C#` |
+| <img src="Resources/Icons/hazel.png" alt="icon" width=15 height=15> **Hazel** | Early-stage interactive application and rendering engine. | [Github](https://github.com/TheCherno/Hazel) | `Windows` | Free, Open-Source | `Learning` `Rendering` |
+| <img src="Resources/Icons/open-3d-engine.png" alt="icon" width=15 height=15> **Open 3D Engine** | AAA-capable, open-source 3D engine. | [Website](https://o3de.org) | `Windows` `Linux` | Free, Open-Source | `AAA` `3D` |
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/Jupyter.png" alt="icon" width=15 height=15> Jupyter | An open-source web application for interactive computing and data analysis in multiple programming languages. | [Offical Website](https://jupyter.org/) </br> [Github](https://github.com/jupyter) |  `Mac` `Windows` `Linux` `Online` `Cloudron` | Free, Open-Source |
-| <img src="Resources/Icons/RStudio.png" alt="icon" width=50 height=15> RStudio | An integrated development environment for R, designed to enhance R programming and data science. | [Offical Website](https://rstudio.com/) |  `Mac` `Windows` `Linux` `Xfce` | Free, Open-Source |
+## Embedded Systems
 
-## Game Development IDEs
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/PlatformIO.png" alt="icon" width=15 height=15> **PlatformIO** | Professional collaborative platform for embedded development. | [Website](https://platformio.org/) | `Plugin (VSCode, etc)` | Free, Open-Source | `IoT` `Embedded` |
+| <img src="Resources/Icons/avalonstudio.png" alt="icon" width=15 height=15> **AvalonStudio** | Cross platform IDE for Embedded C/C++ and .NET Core. | [Github](https://github.com/VitalElement/AvalonStudio) | `Mac` `Windows` `Linux` | Free, Open-Source | `.NET` `Embedded` |
+| <img src="Resources/Icons/ElectronIDE.png" alt="icon" width=15 height=15> **ElectronIDE** | Web based Arduino IDE. | [Github](https://github.com/joshmarinacci/ElectronIDE) | `Mac` `Windows` `Linux` `Web` | Free, Open-Source | `Arduino` |
 
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/unity.png" alt="icon" width=15 height=15> Unity | A popular game development platform offering a wide range of tools and assets for creating games. | [Offical Website](https://unity.com/) |  `Mac` `Windows` `Linux` | Paid, Proprietary, Freemium |
-| <img src="Resources/Icons/godot.png" alt="icon" width=15 height=15> Godot Engine |  An open-source game engine with a focus on user-friendly design and 2D/3D capabilities. | [Official Website](https://godotengine.org/) </br> [Github](https://github.com/godotengine/godot) |  `Mac` `Windows` `Linux` `Haiku` `FreeBSD` | Free, Open-Source |
-| <img src="Resources/Icons/unreal.png" alt="icon" width=15 height=15> Unreal Engine | A powerful game engine with high-quality graphics, used for creating AAA games and interactive experiences. | [Official Website](https://www.unrealengine.com/) | `Mac`  `Windows` `Linux` | Free, Proprietary |
-| <img src="Resources/Icons/cryengine.png" alt="icon" width=15 height=15> CryEngine | A game engine known for its impressive visual fidelity and real-time physics. | [Official Website](https://www.cryengine.com/) | `Windows` | Free, Proprietary |
-| <img src="Resources/Icons/game_maker.png" alt="icon" width=25 height=15> GameMaker Studio | A user-friendly game engine for 2D game development, suitable for both beginners and experienced developers. | [Official Website](https://www.yoyogames.com/gamemaker) | `Windows` | Paid, Proprietary |
-| <img src="Resources/Icons/construct.png" alt="icon" width=15 height=15> Construct | A visual game engine for creating 2D games without coding, ideal for beginners and quick prototyping. | [Official Website](https://www.construct.net/) | `Windows` `Software as a Service (SaaS)` | Paid, Proprietary |
-| <img src="Resources/Icons/defold.png" alt="icon" width=12 height=15> Defold | An open-source game engine with a focus on 2D game development and ease of use. | [Official Website](https://defold.com/) </br> [Github](https://github.com/defold/defold) | `Mac` `Windows` `Linux`| Free, Open-Source |
-| <img src="Resources/Icons/stride.png" alt="icon" width=15 height=15> Stride Game Engine | An open-source game engine designed for creating 3D games with a focus on flexibility and performance. | [Official Website](https://stride3d.net/) </br> [Github](https://github.com/stride3d/stride) | `Windows` | Free, Open-Source |
-| <img src="Resources/Icons/hazel.png" alt="icon" width=15 height=15> Hazel Engine | Hazel is primarily an early-stage interactive application and rendering engine for Windows. | [Github](https://github.com/TheCherno/Hazel) | `Windows` | Free, Open-Source |
-| <img src="Resources/Icons/open-3d-engine.png" alt="icon" width=15 height=15> Open 3D Engine | An open source multi-platform 3D engine that enables devs to build AAA games, cinema-quality 3D worlds and simulations | [Official Website](https://o3de.org) </br> [Github](https://github.com/o3de/o3de) | `Windows` `Linux` | Free, Open-Source |
+## Version Control & Tools
 
-## Embedded Systems IDEs
-
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/PlatformIO.png" alt="icon" width=15 height=15> PlatformIO | An open-source ecosystem for IoT development with support for various embedded platforms. | [Offical Website](https://platformio.org/) |  `Mac` `Windows` `Linux` `CLion` `Visual Studio Code` `Eclipse` `Qt Creator` `Vim` `Sublime Text` `GNU` `Emacs` `NetBeans` `Atom` `Microsoft Visual Studio` | Free, Open-Source |
-| <img src="Resources/Icons/ElectronIDE.png" alt="icon" width=15 height=15> ElectronIDE | New web based Arduino IDE | [Github](https://github.com/joshmarinacci/ElectronIDE) | `Mac` `Windows` `Linux` `Online` `Cloud`, `arduino`| Free, Open-Source |
-
-## Version Control and Collaboration
-
-| Name | Description | Links | System Support | Fees |
-| ---- | ----------------------------- | --- | --- | --- |
-| <img src="Resources/Icons/Git.png" alt="icon" width=15 height=15> Git | A distributed version control system to track changes in source code during software development. | [Offical Website](https://git-scm.com/) |  `Mac` `Windows` `Linux` `Android` `iPhone` `Chrome OS` `Android Tablet` `BSD` `Linux Mobile` `Haiku` | Free, Open-Source |
-| <img src="Resources/Icons/github.png" alt="icon" width=15 height=15> GitHub | A web-based platform for version control, collaboration, and code hosting. | [Offical Website](https://github.com/) |  `Mac` `Windows` `Online` `Android` `iPhone` `Android Tablet` `iPad` | Paid, Proprietary, Freemium |
-
-## Extensions and Plugins
-
-Extend the functionality of your favorite IDEs with these useful plugins and extensions.
+| Name | Description | Links | System Support | Fees | Tags |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="Resources/Icons/Git.png" alt="icon" width=15 height=15> **Git** | Distributed version control system. | [Website](https://git-scm.com/) | `All Platforms` | Free, Open-Source | `VCS` |
+| <img src="Resources/Icons/github.png" alt="icon" width=15 height=15> **GitHub** | Hosting service for software development and version control using Git. | [Website](https://github.com/) | `Web` | Freemium | `Hosting` `Collaboration` |
 
 ## Contributing
 
-Contributions to this list are welcome! If you know of an IDE or tool that should be included, please submit a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-This repository is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
 
 ---
-
-*Disclaimer: This list is provided for informational purposes. The inclusion of any IDE or tool does not imply endorsement or recommendation. Users are advised to conduct their own research before choosing an IDE for their specific needs.*
+*Disclaimer: Usage of icons is for identification purposes only.*
