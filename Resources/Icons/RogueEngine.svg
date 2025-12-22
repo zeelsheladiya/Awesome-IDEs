@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+	<title>RogueEngineLogo-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #579bec } 
+		.shp1 { fill: #3b6be8 } 
+	</style>
+	<path id="Layer" class="shp0" d="M489.76 351.63L944.91 351.63L944.91 55L684.69 55L489.76 351.63L489.76 351.63Z" />
+	<path id="Layer" class="shp1" d="M99.88 944.91L636.84 944.91L368.36 536.37L99.88 944.91L99.88 944.91Z" />
+	<path id="Layer" class="shp1" d="M636.82 55L55 55L55 940.38L636.82 55L636.82 55Z" />
+	<path id="Layer" class="shp0" d="M489.77 648.29L684.7 944.91L944.91 944.91L944.91 648.29L489.77 648.29L489.77 648.29Z" />
+	<path id="Layer" class="shp0" d="M722.83 608.29L794.03 499.95L722.85 391.63L675.32 391.63L617.29 391.63L477.15 391.63L463.47 391.63L392.29 499.95L463.49 608.29L477.15 608.29L617.29 608.29L675.32 608.29L722.83 608.29L722.83 608.29Z" />
+</svg>
