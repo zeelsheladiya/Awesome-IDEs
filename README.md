@@ -94,7 +94,6 @@ Versatile editors and IDEs that support a wide array of languages and workflows 
 | <img src="Resources/Icons/textadept.png" alt="icon" width=15 height=15> **Textadept** | Fast, minimalist, and extensible cross-platform text editor. | [Website](https://orbitalquark.github.io/textadept/) <br> [Github](https://github.com/orbitalquark/textadept) | `Mac` `Windows` `Linux` | Free, Open-Source | `Lua` `Minimal` |
 | <img src="Resources/Icons/lighttable.png" alt="icon" width=15 height=15> **Light Table** | Next generation code editor. (Legacy). | [Website](http://lighttable.com/) <br> [Github](https://github.com/LightTable/LightTable) | `Mac` `Windows` `Linux` | Free, Open-Source | `ClojureScript` `Legacy` |
 | <img src="Resources/Icons/Leafpad.png" alt="icon" width=15 height=15> **Leafpad** | Simple GTK+ text editor. | [Website](http://tarot.freeshell.org/leafpad/) | `Linux` | Free, Open-Source | `Simple` |
-| <img src="Resources/Icons/bbedit.png" alt="icon" width=15 height=15> **BBEdit** | (Discontinued) Replaced by BBEdit. | [Website](https://www.barebones.com/products/textwrangler/) | `Mac` | Free | `Legacy` |
 
 ## Language-Specific IDEs
 
