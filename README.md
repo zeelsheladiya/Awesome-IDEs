@@ -79,7 +79,7 @@ Versatile editors and IDEs that support a wide array of languages and workflows 
 | <img src="Resources/Icons/kate.png" alt="icon" width=15 height=15> **Kate** | Advanced text editor by KDE. | [Website](https://kate-editor.org/) <br> [GitLab](https://invent.kde.org/utilities/kate) | `Mac` `Windows` `Linux` | Free, Open-Source | `KDE` `Lightweight` |
 | <img src="Resources/Icons/gedit.png" alt="icon" width=15 height=15> **gedit** | The official text editor of the GNOME desktop environment. | [Website](https://wiki.gnome.org/Apps/Gedit) <br> [GitLab](https://gitlab.gnome.org/GNOME/gedit) | `Linux` `Mac` `Windows` | Free, Open-Source | `GNOME` `Simple` |
 | <img src="Resources/Icons/bbedit.png" alt="icon" width=15 height=15> **BBEdit** | Leading professional HTML and text editor for macOS. | [Website](https://www.barebones.com/products/bbedit/) | `Mac` | Freemium, Proprietary | `Mac-Native` `Powerful` |
-| <img src="Resources/Icons/textmate.png" alt="icon" width=15 height=15> **TextMate** | Powerful and customizable text editor for macOS. | [Website](https://macromates.com/) <br> [Github](https://github.com/textmate/textmate) | `Mac` | Free, Open-Source | `Mac-Native` `Classic` |
+| <img src="Resources/Icons/Textmate.png" alt="icon" width=15 height=15> **TextMate** | Powerful and customizable text editor for macOS. | [Website](https://macromates.com/) <br> [Github](https://github.com/textmate/textmate) | `Mac` | Free, Open-Source | `Mac-Native` `Classic` |
 | <img src="Resources/Icons/cotedit.png" alt="icon" width=15 height=15> **CotEditor** | Lightweight plain-text editor for macOS. | [Website](https://coteditor.com/) <br> [Github](https://github.com/coteditor/CotEditor) | `Mac` | Free, Open-Source | `Mac-Native` `Lightweight` |
 | <img src="Resources/Icons/spacemacs.svg" alt="icon" width=15 height=15> **Spacemacs** | Community-driven Emacs distribution. "The best of both Emacs and Vim". | [Website](https://www.spacemacs.org/) <br> [Github](https://github.com/syl20bnr/spacemacs) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source | `Emacs` `Vim` |
 | <img src="Resources/Icons/litexl.png" alt="icon" width=15 height=15> **Lite XL** | A lightweight text editor written in Lua. | [Website](https://lite-xl.com) <br> [Github](https://github.com/lite-xl/lite-xl) | `Mac` `Windows` `Linux` | Free, Open-Source | `Lua` `Lightweight` |
@@ -90,10 +90,10 @@ Versatile editors and IDEs that support a wide array of languages and workflows 
 | <img src="Resources/Icons/pspad.png" alt="icon" width=15 height=15> **PSPad** | Freeware text and source editor for Windows. | [Website](http://www.pspad.com/) | `Windows` | Free | `Classic` |
 | <img src="Resources/Icons/emeditor.png" alt="icon" width=15 height=15> **EmEditor** | Fast, lightweight, yet extensible text editor for Windows. Great for large files. | [Website](https://www.emeditor.com/) | `Windows` | Paid | `Large-Files` |
 | <img src="Resources/Icons/SciTE.png" alt="icon" width=15 height=15> **SciTE** | CheckOut Scintilla Text Editor. | [Website](https://www.scintilla.org/SciTE.html) <br> [Github](https://github.com/ScintillaOrg/lexilla) | `Windows` `Linux` | Free, Open-Source | `Minimal` |
-| <img src="Resources/Icons/bluefish.png" alt="icon" width=15 height=15> **Bluefish** | Powerful editor targeted towards programmers and web developers. | [Website](http://bluefish.openoffice.nl/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Fast` |
+| <img src="Resources/Icons/Bluefish.png" alt="icon" width=15 height=15> **Bluefish** | Powerful editor targeted towards programmers and web developers. | [Website](http://bluefish.openoffice.nl/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Fast` |
 | <img src="Resources/Icons/textadept.png" alt="icon" width=15 height=15> **Textadept** | Fast, minimalist, and extensible cross-platform text editor. | [Website](https://orbitalquark.github.io/textadept/) <br> [Github](https://github.com/orbitalquark/textadept) | `Mac` `Windows` `Linux` | Free, Open-Source | `Lua` `Minimal` |
 | <img src="Resources/Icons/lighttable.png" alt="icon" width=15 height=15> **Light Table** | Next generation code editor. (Legacy). | [Website](http://lighttable.com/) <br> [Github](https://github.com/LightTable/LightTable) | `Mac` `Windows` `Linux` | Free, Open-Source | `ClojureScript` `Legacy` |
-| <img src="Resources/Icons/leafpad.png" alt="icon" width=15 height=15> **Leafpad** | Simple GTK+ text editor. | [Website](http://tarot.freeshell.org/leafpad/) | `Linux` | Free, Open-Source | `Simple` |
+| <img src="Resources/Icons/Leafpad.png" alt="icon" width=15 height=15> **Leafpad** | Simple GTK+ text editor. | [Website](http://tarot.freeshell.org/leafpad/) | `Linux` | Free, Open-Source | `Simple` |
 | <img src="Resources/Icons/bbedit.png" alt="icon" width=15 height=15> **BBEdit** | (Discontinued) Replaced by BBEdit. | [Website](https://www.barebones.com/products/textwrangler/) | `Mac` | Free | `Legacy` |
 
 ## Language-Specific IDEs
@@ -104,13 +104,13 @@ While many general IDEs support these languages, the following are specialized o
 
 | Name | Description | Links | System Support | Fees | Tags |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| <img src="Resources/Icons/phpstorm.png" alt="icon" width=15 height=15> **PhpStorm** | Lightning-smart PHP IDE by JetBrains. | [Website](https://www.jetbrains.com/phpstorm/) | `Mac` `Windows` `Linux` | Paid | `PHP` `Web` |
+| <img src="Resources/Icons/PhpStorm.png" alt="icon" width=15 height=15> **PhpStorm** | Lightning-smart PHP IDE by JetBrains. | [Website](https://www.jetbrains.com/phpstorm/) | `Mac` `Windows` `Linux` | Paid | `PHP` `Web` |
 
 ### Go
 
 | Name | Description | Links | System Support | Fees | Tags |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| <img src="Resources/Icons/goland.png" alt="icon" width=15 height=15> **GoLand** | Capable and ergonomic Go IDE by JetBrains. | [Website](https://www.jetbrains.com/go/) | `Mac` `Windows` `Linux` | Paid | `Go` `Microservices` |
+| <img src="Resources/Icons/GoLand.png" alt="icon" width=15 height=15> **GoLand** | Capable and ergonomic Go IDE by JetBrains. | [Website](https://www.jetbrains.com/go/) | `Mac` `Windows` `Linux` | Paid | `Go` `Microservices` |
 
 ### Rust
 
@@ -124,11 +124,11 @@ While many general IDEs support these languages, the following are specialized o
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | <img src="Resources/Icons/PyCharm.png" alt="icon" width=15 height=15> **PyCharm** | The premier Python IDE with code analysis, graphical debugger, and Django support. | [Website](https://www.jetbrains.com/pycharm/) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Intelligent` `Web` `Data-Science` |
 | <img src="Resources/Icons/Spyder.png" alt="icon" width=40 height=20> **Spyder** | A scientific environment written in Python, for Python. Great for data analysts. | [Website](https://www.spyder-ide.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Scientific` `Data-Analysis` |
-| <img src="Resources/Icons/thonny.png" alt="icon" width=15 height=15> **Thonny** | Python IDE for beginners. | [Website](https://thonny.org/) <br> [Github](https://github.com/thonny/thonny) | `Mac` `Windows` `Linux` | Free, Open-Source | `Education` `Beginner` |
+| <img src="Resources/Icons/Thonny.png" alt="icon" width=15 height=15> **Thonny** | Python IDE for beginners. | [Website](https://thonny.org/) <br> [Github](https://github.com/thonny/thonny) | `Mac` `Windows` `Linux` | Free, Open-Source | `Education` `Beginner` |
 | <img src="Resources/Icons/wingpythonide.png" alt="icon" width=15 height=15> **Wing IDE** | Powerful Python IDE with powerful debugger and intelligent editor. | [Website](https://wingware.com/) | `Mac` `Windows` `Linux` | Paid, Freemium | `Python` |
 | <img src="Resources/Icons/pydev.jpg" alt="icon" width=15 height=15> **PyDev** | Python IDE for Eclipse. | [Website](https://www.pydev.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Eclipse` `Plugin` |
 | <img src="Resources/Icons/eric.png" alt="icon" width=15 height=15> **Eric** | Full featured Python editor and IDE, written in Python. | [Website](https://eric-ide.python-projects.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Python` `Qt` |
-| <img src="Resources/Icons/pyscripter.png" alt="icon" width=15 height=15> **PyScripter** | Lightweight, open-source Python IDE for Windows. | [Github](https://github.com/pyscripter/pyscripter) | `Windows` | Free, Open-Source | `Lightweight` |
+| <img src="Resources/Icons/PyScripter.png" alt="icon" width=15 height=15> **PyScripter** | Lightweight, open-source Python IDE for Windows. | [Github](https://github.com/pyscripter/pyscripter) | `Windows` | Free, Open-Source | `Lightweight` |
 | <img src="Resources/Icons/pyzo.png" alt="icon" width=15 height=15> **IEP (Pyzo)** | Cross-platform Python IDE focused on interactivity and introspection. | [Website](https://pyzo.org/) | `Mac` `Windows` `Linux` | Free, Open-Source | `Science` |
 
 ### Java
@@ -169,7 +169,7 @@ While many general IDEs support these languages, the following are specialized o
 | <img src="Resources/Icons/WebStorm.png" alt="icon" width=15 height=15> **WebStorm** | The smartest JavaScript IDE. Fully equipped for advanced web development. | [Website](https://www.jetbrains.com/webstorm/) | `Mac` `Windows` `Linux` | Paid | `JavaScript` `TypeScript` `Frontend` |
 | <img src="Resources/Icons/aptana_studio.jpeg" alt="icon" width=15 height=15> **Aptana Studio** | Professional, open-source development tool for the open web. | [Github](https://github.com/aptana/studio3) | `Mac` `Windows` `Linux` | Free, Open-Source | `Web` `Eclipse` |
 | <img src="Resources/Icons/webuilder.png" alt="icon" width=15 height=15> **WeBuilder** | All-in-one web code editor for HTML, CSS, JavaScript, PHP, Ruby, Python, etc. | [Website](https://www.blumentals.net/webuilder/) | `Windows` | Paid | `All-in-One` |
-| <img src="Resources/Icons/komodo_ide.png" alt="icon" width=15 height=15> **Komodo IDE** | One IDE for all your languages (Python, PHP, Go, Perl, Tcl, Ruby, etc). | [Website](https://www.activestate.com/products/komodo-ide/) <br> [Github](https://github.com/ActiveState/OpenKomodoIDE) | `Mac` `Windows` `Linux` | Free (ActiveState) | `Polyglot` `Legacy` |
+| <img src="Resources/Icons/Komodo_IDE.png" alt="icon" width=15 height=15> **Komodo IDE** | One IDE for all your languages (Python, PHP, Go, Perl, Tcl, Ruby, etc). | [Website](https://www.activestate.com/products/komodo-ide/) <br> [Github](https://github.com/ActiveState/OpenKomodoIDE) | `Mac` `Windows` `Linux` | Free (ActiveState) | `Polyglot` `Legacy` |
 | <img src="Resources/Icons/firebase_studio.png" alt="icon" width=15 height=15> **Firebase Studio** | Web-based toolset for Firebase development. | [Website](https://firebase.studio/) | `Web` | Free | `Firebase` |
 
 ## Mobile Development
@@ -209,14 +209,14 @@ While many general IDEs support these languages, the following are specialized o
 | <img src="Resources/Icons/redot_engine.png" alt="icon" width=15 height=15> **Redot Engine** | Community-driven fork of Godot Engine. | [Website](https://redotengine.org) <br> [Github](https://github.com/Redot-Engine/redot-engine) | `Mac` `Windows` `Linux` `Android` | Free, Open-Source | `Godot-Fork` `2D/3D` |
 | <img src="Resources/Icons/microstudio.png" alt="icon" width=15 height=15> **MicroStudio** | Online game engine for learning and prototyping. | [Website](https://microstudio.dev) <br> [Github](https://github.com/pmgl/microstudio) | `Web` `Mac` `Windows` `Linux` | Free, Open-Source | `Web` `Learning` |
 | <img src="Resources/Icons/bevy.svg" alt="icon" width=15 height=15> **Bevy** | A data-driven game engine built in Rust. | [Website](https://bevyengine.org) <br> [Github](https://github.com/bevyengine/bevy) | `Mac` `Windows` `Linux` `Web` | Free, Open-Source | `Rust` `ECS` |
-| <img src="Resources/Icons/verge3d.png" alt="icon" width=15 height=15> **Verge3D** | Toolkit for creating immersive web-based 3D experiences (Blender/Max/Maya). | [Website](https://www.soft8soft.com/verge3d/) | `Web` `Blender` | Paid | `Web` `No-Code` |
+| <img src="Resources/Icons/Verge3D.png" alt="icon" width=15 height=15> **Verge3D** | Toolkit for creating immersive web-based 3D experiences (Blender/Max/Maya). | [Website](https://www.soft8soft.com/verge3d/) | `Web` `Blender` | Paid | `Web` `No-Code` |
 | <img src="Resources/Icons/playcanvas.png" alt="icon" width=15 height=15> **PlayCanvas** | Cloud-first web game engine. Collaborative 3D development. | [Website](https://playcanvas.com) <br> [Github](https://github.com/playcanvas/engine) | `Web` | Freemium | `Cloud` `Web` |
 | <img src="Resources/Icons/torque3d.png" alt="icon" width=15 height=15> **Torque 3D** | Open-source C++ engine with a long history. | [Website](https://torque3d.org) <br> [Github](https://github.com/TorqueGameEngines/Torque3D) | `Windows` `Mac` `Linux` | Free, Open-Source | `C++` `Legacy` |
 | <img src="Resources/Icons/xogot.png" alt="icon" width=15 height=15> **XoGot** | Godot engine adapted for iPadOS development. | [Website](https://xogot.com) | `iOS` | Freemium | `iPad` `Mobile` |
 | <img src="Resources/Icons/flax_engine.png" alt="icon" width=15 height=15> **Flax Engine** | High-quality 3D engine with C++ and C# scripting. | [Website](https://flaxengine.com) <br> [Github](https://github.com/FlaxEngine/FlaxEngine) | `Windows` `Mac` `Linux` | Free (Royalties) | `C++` `C#` |
 | <img src="Resources/Icons/source_sdk.png" alt="icon" width=15 height=15> **Source SDK** | Tools for creating mods and games for Valve's Source Engine. | [Website](https://developer.valvesoftware.com/wiki/Source_SDK) | `Windows` `Linux` | Free | `Modding` `Valve` |
 | <img src="Resources/Icons/wicked_engine.png" alt="icon" width=15 height=15> **Wicked Engine** | Modern C++ engine focusing on rendering performance. | [Website](https://wickedengine.net) <br> [Github](https://github.com/turanszkij/WickedEngine) | `Windows` `Linux` | Free, Open-Source | `C++` `Rendering` |
-| <img src="Resources/Icons/roblox_studio.png" alt="icon" width=15 height=15> **Roblox Studio** | The tool for creating games on the Roblox platform. | [Website](https://www.roblox.com/create) | `Windows` `Mac` | Free (Rev Share) | `Lua` `Platform` |
+| <img src="Resources/Icons/Roblox_Studio.png" alt="icon" width=15 height=15> **Roblox Studio** | The tool for creating games on the Roblox platform. | [Website](https://www.roblox.com/create) | `Windows` `Mac` | Free (Rev Share) | `Lua` `Platform` |
 | <img src="Resources/Icons/ezengine.png" alt="icon" width=15 height=15> **EzEngine** | Modular C++ game engine. | [Website](https://ezengine.net) <br> [Github](https://github.com/ezEngine/ezEngine) | `Windows` `Linux` | Free, Open-Source | `C++` `Modular` |
 | <img src="Resources/Icons/harfang3d.png" alt="icon" width=15 height=15> **Harfang 3D** | Multi-language 3D engine (Python, Lua, C++). | [Website](https://www.harfang3d.com) | `Windows` `Linux` | Freemium | `Python` `Lua` |
 | <img src="Resources/Icons/enigma.png" alt="icon" width=15 height=15> **Enigma** | Open-source game development environment compatible with Game Maker. | [Website](https://enigma-dev.org) <br> [Github](https://github.com/enigma-dev/enigma-dev) | `Windows` `Mac` `Linux` | Free, Open-Source | `GameMaker` |
