@@ -56,6 +56,7 @@ These IDEs are built with Artificial Intelligence at their core or represent the
 | <img src="Resources/Icons/coder.png" alt="icon" width=15 height=15> **Coder** | Coding Agent Multiplexer. Manage multiple AI agents in parallel. | [Website](https://coder.com) <br> [Github](https://github.com/coder/code-server) | `Mac` `Windows` `Linux` | Paid | `Agent-Manager` |
 | <img src="Resources/Icons/v0.png" alt="icon" width=15 height=15> **v0** | Generative UI system by Vercel. React + Tailwind CSS generation. | [Website](https://v0.dev) | `Web` | Freemium | `UI-Gen` `React` |
 | <img src="Resources/Icons/jetbrains-fleet.svg" alt="icon" width=15 height=15> **JetBrains Fleet** | A distributed, polyglot IDE built from scratch by JetBrains. Uses the IntelliJ engine but with a lightweight UI. | [Website](https://www.jetbrains.com/fleet) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Distributed` `Polyglot` |
+| <img src="Resources/Icons/nimbalyst.png" alt="icon" width=15 height=15> **Nimbalyst** | Visual workspace for building with Claude Code and Codex. Session and task management. Visual editing. | [Website](https://nimbalyst.com) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Agent Manager` `Visual Editor` |
 
 ## General Purpose IDEs
 
