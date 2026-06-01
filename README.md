@@ -57,7 +57,7 @@ These IDEs are built with Artificial Intelligence at their core or represent the
 | <img src="Resources/Icons/v0.png" alt="icon" width=15 height=15> **v0** | Generative UI system by Vercel. React + Tailwind CSS generation. | [Website](https://v0.dev) | `Web` | Freemium | `UI-Gen` `React` |
 | <img src="Resources/Icons/jetbrains-fleet.svg" alt="icon" width=15 height=15> **JetBrains Fleet** | A distributed, polyglot IDE built from scratch by JetBrains. Uses the IntelliJ engine but with a lightweight UI. | [Website](https://www.jetbrains.com/fleet) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Distributed` `Polyglot` |
 | <img src="Resources/Icons/nimbalyst.png" alt="icon" width=15 height=15> **Nimbalyst** | Visual workspace for building with Claude Code and Codex. Session and task management. Visual editing. | [Website](https://nimbalyst.com) | `Mac` `Windows` `Linux` | Freemium, Proprietary | `Agent Manager` `Visual Editor` |
-| **Cate** | Infinite-canvas IDE where editors, terminals, browsers, docs, Git panels and AI agents float as draggable nodes you arrange freely, like Figma for code. Run multiple Claude Code agents in parallel on the canvas. | [Github](https://github.com/0-AI-UG/cate) | `Mac` `Windows` `Linux` | Free, Open-Source | `Infinite-Canvas` `AI-Integrated` |
+| <img src="Resources/Icons/cat.png" alt="icon" width=15 height=15> **Cate** | Infinite-canvas IDE where editors, terminals, browsers, docs, Git panels and AI agents float as draggable nodes you arrange freely, like Figma for code. Run multiple Claude Code agents in parallel on the canvas. | [Github](https://github.com/0-AI-UG/cate) | `Mac` `Windows` `Linux` | Free, Open-Source | `Infinite-Canvas` `AI-Integrated` |
 
 ## General Purpose IDEs
 
