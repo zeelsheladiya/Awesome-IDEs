@@ -248,6 +248,7 @@ While many general IDEs support these languages, the following are specialized o
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | <img src="Resources/Icons/Git.png" alt="icon" width=15 height=15> **Git** | Distributed version control system. | [Website](https://git-scm.com/) | `Mac` `Windows` `Linux` `BSD` | Free, Open-Source | `VCS` |
 | <img src="Resources/Icons/github.png" alt="icon" width=15 height=15> **GitHub** | Hosting service for software development and version control using Git. | [Website](https://github.com/) | `Web` | Freemium | `Hosting` `Collaboration` |
+| <img src="Resources/Icons/gitlab.png" alt="icon" width=15 height=15> **GitLab** | DevOps platform for Git-based source code hosting, CI/CD pipelines, and team collaboration. | [Website](https://gitlab.com/) | `Web` | `Freemium` | `Hosting` `Collaboration` `DevOps` `CI/CD` |
 | <img src="Resources/Icons/judge0.png" alt="icon" width=15 height=15> **Judge0** | Robust, scalable, and open-source online code execution system. | [Website](https://judge0.com/) <br> [Github](https://github.com/judge0/judge0) | `Web` `API` | Free, Open-Source | `Compiler-API` |
 
 ## Contributing
