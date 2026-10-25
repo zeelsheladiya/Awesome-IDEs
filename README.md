@@ -253,6 +253,7 @@ While many general IDEs support these languages, the following are specialized o
 | <img src="Resources/Icons/gitlab.png" alt="icon" width=15 height=15> **GitLab** | Free and open-source DevOps platform for Git-based code hosting, CI/CD, and team collaboration. Includes a built-in Web IDE. | [Website](https://gitlab.com/) | `Web` | `Freemium` | `Hosting` `Collaboration` `DevOps` `CI/CD` |
 | <img src="Resources/Icons/judge0.png" alt="icon" width=15 height=15> **Judge0** | Robust, scalable, and open-source online code execution system. | [Website](https://judge0.com/) <br> [Github](https://github.com/judge0/judge0) | `Web` `API` | Free, Open-Source | `Compiler-API` |
 | <img src="Resources/Icons/lore.svg" alt="icon" width=15 height=15> **Lore** | a next-generation, open source version control system. | [Website](https://lore.org/) <br> [Github](https://github.com/EpicGames/lore) | `Mac` `Windows` `Linux` `API` | Free, Open-Source | `Hosting` `Collaboration` |
+| <img src="Resources/Icons/glim.png" alt="Glim icon" width=15 height=15> **Glim** | macOS file viewer with Git diff previews, staging/unstaging and local commits. | [Website](https://github.com/NeoPanic/Glim) <br> [Github](https://github.com/NeoPanic/Glim) | `Mac` | Free, Open-Source | `Git` `File-Viewer` `Rust` |
 
 ## Contributing
 
